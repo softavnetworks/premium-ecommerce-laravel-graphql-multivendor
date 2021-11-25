@@ -8,4 +8,7 @@ This is a complex app consisting of multiple apps.
 5. Shop Graphql API
 6. e-Commerce shop using Nextjs  RESTful client
 
+TODO:
+Updating to new version
+
 Need help in Deployment: email us: soft.av.networks@gmail.com
